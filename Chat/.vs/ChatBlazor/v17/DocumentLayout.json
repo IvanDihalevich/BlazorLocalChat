@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF3E2C9-C737-424F-A106-A9EC60F1C7A1}|LocalChat.Reposetory\\LocalChat.Reposetory.csproj|c:\\users\\kripa\\documents\\github\\blazorlocalchat\\chat\\localchat.reposetory\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF3E2C9-C737-424F-A106-A9EC60F1C7A1}|LocalChat.Reposetory\\LocalChat.Reposetory.csproj|solutionrelative:localchat.reposetory\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6648642F-A623-45F6-A5DE-14A551AA3419}|LocalChat.Core\\LocalChat.Core.csproj|c:\\users\\kripa\\documents\\github\\blazorlocalchat\\chat\\localchat.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6648642F-A623-45F6-A5DE-14A551AA3419}|LocalChat.Core\\LocalChat.Core.csproj|solutionrelative:localchat.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 424,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Reposetory\\Class1.cs",
+              "RelativeDocumentMoniker": "LocalChat.Reposetory\\Class1.cs",
+              "ToolTip": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Reposetory\\Class1.cs",
+              "RelativeToolTip": "LocalChat.Reposetory\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T22:03:32.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Core\\Class1.cs",
+              "RelativeDocumentMoniker": "LocalChat.Core\\Class1.cs",
+              "ToolTip": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Core\\Class1.cs",
+              "RelativeToolTip": "LocalChat.Core\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T22:02:27.276Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
