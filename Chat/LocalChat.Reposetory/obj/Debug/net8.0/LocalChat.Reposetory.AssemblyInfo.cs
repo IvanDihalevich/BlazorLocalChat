@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LocalChat.Reposetory")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28968810a8ece9b7a651412d3d5b38aa704cfe45")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2126f1a0dff57aac9b54305b4c59239f457a68c")]
 [assembly: System.Reflection.AssemblyProductAttribute("LocalChat.Reposetory")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LocalChat.Reposetory")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
