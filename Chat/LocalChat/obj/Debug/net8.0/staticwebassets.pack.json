@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat\\obj\\Debug\\net8.0\\compressed\\jrohohx0v1.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat\\obj\\Debug\\net8.0\\scopedcss\\bundle\\LocalChat.styles.css",
+      "PackagePath": "staticwebassets\\LocalChat.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.LocalChat.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.LocalChat.props",
+      "PackagePath": "build\\LocalChat.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.LocalChat.props",
+      "PackagePath": "buildMultiTargeting\\LocalChat.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.LocalChat.props",
+      "PackagePath": "buildTransitive\\LocalChat.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

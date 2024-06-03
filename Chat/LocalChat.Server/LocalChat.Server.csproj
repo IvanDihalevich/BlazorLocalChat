@@ -22,7 +22,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\LocalChat.Core\LocalChat.Core.csproj" />
-    <ProjectReference Include="..\LocalChat.Reposetory\LocalChat.Reposetory.csproj" />
+    <ProjectReference Include="..\LocalChat.Reposetory\LocalChat.Repository.csproj" />
   </ItemGroup>
 
 </Project>

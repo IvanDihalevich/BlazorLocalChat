@@ -1621,18 +1621,19 @@
           "bin/placeholder/LocalChat.Core.dll": {}
         }
       },
-      "LocalChat.Reposetory/1.0.0": {
+      "LocalChat.Repository/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "AutoMapper": "13.0.1",
+          "LocalChat.Core": "1.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.6"
         },
         "compile": {
-          "bin/placeholder/LocalChat.Reposetory.dll": {}
+          "bin/placeholder/LocalChat.Repository.dll": {}
         },
         "runtime": {
-          "bin/placeholder/LocalChat.Reposetory.dll": {}
+          "bin/placeholder/LocalChat.Repository.dll": {}
         }
       }
     }
@@ -4578,17 +4579,17 @@
       "path": "../LocalChat.Core/LocalChat.Core.csproj",
       "msbuildProject": "../LocalChat.Core/LocalChat.Core.csproj"
     },
-    "LocalChat.Reposetory/1.0.0": {
+    "LocalChat.Repository/1.0.0": {
       "type": "project",
-      "path": "../LocalChat.Reposetory/LocalChat.Reposetory.csproj",
-      "msbuildProject": "../LocalChat.Reposetory/LocalChat.Reposetory.csproj"
+      "path": "../LocalChat.Reposetory/LocalChat.Repository.csproj",
+      "msbuildProject": "../LocalChat.Reposetory/LocalChat.Repository.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "AutoMapper >= 13.0.1",
       "LocalChat.Core >= 1.0.0",
-      "LocalChat.Reposetory >= 1.0.0",
+      "LocalChat.Repository >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 8.0.6",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.6",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.6",
@@ -4631,8 +4632,8 @@
             "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Core\\LocalChat.Core.csproj": {
               "projectPath": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Core\\LocalChat.Core.csproj"
             },
-            "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Reposetory\\LocalChat.Reposetory.csproj": {
-              "projectPath": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Reposetory\\LocalChat.Reposetory.csproj"
+            "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Reposetory\\LocalChat.Repository.csproj": {
+              "projectPath": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Reposetory\\LocalChat.Repository.csproj"
             }
           }
         }

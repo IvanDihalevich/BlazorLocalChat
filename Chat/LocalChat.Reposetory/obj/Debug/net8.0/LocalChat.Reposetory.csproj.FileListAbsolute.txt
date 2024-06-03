@@ -1,0 +1,15 @@
+C:\Users\Kripa\Documents\GitHub\BlazorLocalChat\Chat\LocalChat.Reposetory\bin\Debug\net8.0\LocalChat.Reposetory.deps.json
+C:\Users\Kripa\Documents\GitHub\BlazorLocalChat\Chat\LocalChat.Reposetory\bin\Debug\net8.0\LocalChat.Reposetory.runtimeconfig.json
+C:\Users\Kripa\Documents\GitHub\BlazorLocalChat\Chat\LocalChat.Reposetory\bin\Debug\net8.0\LocalChat.Reposetory.dll
+C:\Users\Kripa\Documents\GitHub\BlazorLocalChat\Chat\LocalChat.Reposetory\bin\Debug\net8.0\LocalChat.Reposetory.pdb
+C:\Users\Kripa\Documents\GitHub\BlazorLocalChat\Chat\LocalChat.Reposetory\obj\Debug\net8.0\LocalChat.Reposetory.csproj.AssemblyReference.cache
+C:\Users\Kripa\Documents\GitHub\BlazorLocalChat\Chat\LocalChat.Reposetory\obj\Debug\net8.0\LocalChat.Reposetory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kripa\Documents\GitHub\BlazorLocalChat\Chat\LocalChat.Reposetory\obj\Debug\net8.0\LocalChat.Reposetory.AssemblyInfoInputs.cache
+C:\Users\Kripa\Documents\GitHub\BlazorLocalChat\Chat\LocalChat.Reposetory\obj\Debug\net8.0\LocalChat.Reposetory.AssemblyInfo.cs
+C:\Users\Kripa\Documents\GitHub\BlazorLocalChat\Chat\LocalChat.Reposetory\obj\Debug\net8.0\LocalChat.Reposetory.csproj.CoreCompileInputs.cache
+C:\Users\Kripa\Documents\GitHub\BlazorLocalChat\Chat\LocalChat.Reposetory\obj\Debug\net8.0\LocalChat.Reposetory.sourcelink.json
+C:\Users\Kripa\Documents\GitHub\BlazorLocalChat\Chat\LocalChat.Reposetory\obj\Debug\net8.0\LocalChat.Reposetory.dll
+C:\Users\Kripa\Documents\GitHub\BlazorLocalChat\Chat\LocalChat.Reposetory\obj\Debug\net8.0\refint\LocalChat.Reposetory.dll
+C:\Users\Kripa\Documents\GitHub\BlazorLocalChat\Chat\LocalChat.Reposetory\obj\Debug\net8.0\LocalChat.Reposetory.pdb
+C:\Users\Kripa\Documents\GitHub\BlazorLocalChat\Chat\LocalChat.Reposetory\obj\Debug\net8.0\LocalChat.Reposetory.genruntimeconfig.cache
+C:\Users\Kripa\Documents\GitHub\BlazorLocalChat\Chat\LocalChat.Reposetory\obj\Debug\net8.0\ref\LocalChat.Reposetory.dll

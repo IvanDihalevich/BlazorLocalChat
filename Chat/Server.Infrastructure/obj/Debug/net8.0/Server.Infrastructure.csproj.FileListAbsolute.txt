@@ -1,0 +1,16 @@
+C:\Users\Kripa\Documents\GitHub\BlazorLocalChat\Chat\Server.Infrastructure\bin\Debug\net8.0\Server.Infrastructure.deps.json
+C:\Users\Kripa\Documents\GitHub\BlazorLocalChat\Chat\Server.Infrastructure\bin\Debug\net8.0\Server.Infrastructure.dll
+C:\Users\Kripa\Documents\GitHub\BlazorLocalChat\Chat\Server.Infrastructure\bin\Debug\net8.0\Server.Infrastructure.pdb
+C:\Users\Kripa\Documents\GitHub\BlazorLocalChat\Chat\Server.Infrastructure\bin\Debug\net8.0\LocalChat.Core.dll
+C:\Users\Kripa\Documents\GitHub\BlazorLocalChat\Chat\Server.Infrastructure\bin\Debug\net8.0\LocalChat.Core.pdb
+C:\Users\Kripa\Documents\GitHub\BlazorLocalChat\Chat\Server.Infrastructure\obj\Debug\net8.0\Server.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Kripa\Documents\GitHub\BlazorLocalChat\Chat\Server.Infrastructure\obj\Debug\net8.0\Server.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kripa\Documents\GitHub\BlazorLocalChat\Chat\Server.Infrastructure\obj\Debug\net8.0\Server.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Kripa\Documents\GitHub\BlazorLocalChat\Chat\Server.Infrastructure\obj\Debug\net8.0\Server.Infrastructure.AssemblyInfo.cs
+C:\Users\Kripa\Documents\GitHub\BlazorLocalChat\Chat\Server.Infrastructure\obj\Debug\net8.0\Server.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Kripa\Documents\GitHub\BlazorLocalChat\Chat\Server.Infrastructure\obj\Debug\net8.0\Server.Infrastructure.sourcelink.json
+C:\Users\Kripa\Documents\GitHub\BlazorLocalChat\Chat\Server.Infrastructure\obj\Debug\net8.0\Server.I.7328B26C.Up2Date
+C:\Users\Kripa\Documents\GitHub\BlazorLocalChat\Chat\Server.Infrastructure\obj\Debug\net8.0\Server.Infrastructure.dll
+C:\Users\Kripa\Documents\GitHub\BlazorLocalChat\Chat\Server.Infrastructure\obj\Debug\net8.0\refint\Server.Infrastructure.dll
+C:\Users\Kripa\Documents\GitHub\BlazorLocalChat\Chat\Server.Infrastructure\obj\Debug\net8.0\Server.Infrastructure.pdb
+C:\Users\Kripa\Documents\GitHub\BlazorLocalChat\Chat\Server.Infrastructure\obj\Debug\net8.0\ref\Server.Infrastructure.dll

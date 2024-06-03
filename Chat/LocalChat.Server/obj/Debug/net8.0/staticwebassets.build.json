@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "w2PhNIMaO0EKQk2u0gBlbbklYAn2mWJAqpuHMfaixSE=",
+  "Source": "LocalChat.Server",
+  "BasePath": "_content/LocalChat.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

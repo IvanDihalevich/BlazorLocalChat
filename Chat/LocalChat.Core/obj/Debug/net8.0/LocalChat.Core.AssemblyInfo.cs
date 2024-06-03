@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LocalChat.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2126f1a0dff57aac9b54305b4c59239f457a68c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb9a15d4f83469c5eb28ffb5be632b31952aa95c")]
 [assembly: System.Reflection.AssemblyProductAttribute("LocalChat.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LocalChat.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

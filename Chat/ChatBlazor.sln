@@ -7,17 +7,21 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "server", "server", "{5E2029
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "client", "client", "{81A4C09C-8832-46E5-9464-555E8152F8B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalChat", "LocalChat\LocalChat.csproj", "{C2EF0CEC-6628-47D6-AFFB-BA147DE300FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LocalChat", "LocalChat\LocalChat.csproj", "{C2EF0CEC-6628-47D6-AFFB-BA147DE300FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalChat.Server", "LocalChat.Server\LocalChat.Server.csproj", "{4B46E05F-1CE3-4896-B7F5-A51C1A530728}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LocalChat.Server", "LocalChat.Server\LocalChat.Server.csproj", "{4B46E05F-1CE3-4896-B7F5-A51C1A530728}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Entities", "Entities", "{A172EA69-54B7-46FE-B611-E0E5647B5888}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Reposetories", "Reposetories", "{70A72780-4CB9-46E2-8C6D-B4F1BCE324C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalChat.Core", "LocalChat.Core\LocalChat.Core.csproj", "{6648642F-A623-45F6-A5DE-14A551AA3419}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LocalChat.Core", "LocalChat.Core\LocalChat.Core.csproj", "{6648642F-A623-45F6-A5DE-14A551AA3419}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalChat.Reposetory", "LocalChat.Reposetory\LocalChat.Reposetory.csproj", "{6BF3E2C9-C737-424F-A106-A9EC60F1C7A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LocalChat.Repository", "LocalChat.Reposetory\LocalChat.Repository.csproj", "{6BF3E2C9-C737-424F-A106-A9EC60F1C7A1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastrusture", "Infrastrusture", "{D4DEEC4B-A502-4910-AC12-A9DADEBE43A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server.Infrastructure", "Server.Infrastructure\Server.Infrastructure.csproj", "{27E40C38-CCA8-4B6E-9FFD-E31B1035BF1C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,6 +45,10 @@ Global
 		{6BF3E2C9-C737-424F-A106-A9EC60F1C7A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6BF3E2C9-C737-424F-A106-A9EC60F1C7A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6BF3E2C9-C737-424F-A106-A9EC60F1C7A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27E40C38-CCA8-4B6E-9FFD-E31B1035BF1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27E40C38-CCA8-4B6E-9FFD-E31B1035BF1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27E40C38-CCA8-4B6E-9FFD-E31B1035BF1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27E40C38-CCA8-4B6E-9FFD-E31B1035BF1C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -52,6 +60,8 @@ Global
 		{70A72780-4CB9-46E2-8C6D-B4F1BCE324C8} = {5E202949-6FE4-49AA-B76D-D8DA9CEB21BA}
 		{6648642F-A623-45F6-A5DE-14A551AA3419} = {A172EA69-54B7-46FE-B611-E0E5647B5888}
 		{6BF3E2C9-C737-424F-A106-A9EC60F1C7A1} = {70A72780-4CB9-46E2-8C6D-B4F1BCE324C8}
+		{D4DEEC4B-A502-4910-AC12-A9DADEBE43A8} = {5E202949-6FE4-49AA-B76D-D8DA9CEB21BA}
+		{27E40C38-CCA8-4B6E-9FFD-E31B1035BF1C} = {D4DEEC4B-A502-4910-AC12-A9DADEBE43A8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5C015A9C-594A-4C41-B985-598A93373079}

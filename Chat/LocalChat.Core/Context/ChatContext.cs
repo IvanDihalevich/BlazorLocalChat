@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using LocalChat.Core.Entities;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,7 +13,7 @@ namespace LocalChat.Core.Context
     {
         public DbSet<ChatRoom> ChatRooms => Set<ChatRoom>();
         public DbSet<Message> Messages => Set<Message>();
-        public DbSet<MessedgeUsers> messedgeUsers => Set<MessedgeUsers>();
+        public DbSet<MessegeUsers> messedgeUsers => Set<MessegeUsers>();
         public DbSet<ChatRoomUsers> ChatRoomUsers => Set<ChatRoomUsers>();
 
         public ChatContext(DbContextOptions<ChatContext> options)
@@ -32,3 +33,4 @@ namespace LocalChat.Core.Context
 
         }
     }
+}
