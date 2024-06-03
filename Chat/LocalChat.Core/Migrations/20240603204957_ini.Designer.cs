@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace LocalChat.Core.Migrations
 {
     [DbContext(typeof(ChatContext))]
-    [Migration("20240603122224_Init")]
-    partial class Init
+    [Migration("20240603204957_ini")]
+    partial class ini
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -73,6 +73,9 @@ namespace LocalChat.Core.Migrations
                     b.Property<Guid>("MessedgeUsersId")
                         .HasColumnType("uniqueidentifier");
 
+                    b.Property<Guid?>("MessegeUsersId")
+                        .HasColumnType("uniqueidentifier");
+
                     b.Property<DateTime>("SendTime")
                         .HasColumnType("datetime2");
 
@@ -87,14 +90,14 @@ namespace LocalChat.Core.Migrations
 
                     b.HasIndex("ChatRoomId");
 
-                    b.HasIndex("MessedgeUsersId");
+                    b.HasIndex("MessegeUsersId");
 
                     b.HasIndex("SenderId");
 
                     b.ToTable("Messages");
                 });
 
-            modelBuilder.Entity("LocalChat.Core.Entities.MessedgeUsers", b =>
+            modelBuilder.Entity("LocalChat.Core.Entities.MessegeUsers", b =>
                 {
                     b.Property<Guid>("Id")
                         .ValueGeneratedOnAdd()
@@ -151,11 +154,9 @@ namespace LocalChat.Core.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("LocalChat.Core.Entities.MessedgeUsers", null)
+                    b.HasOne("LocalChat.Core.Entities.MessegeUsers", null)
                         .WithMany("MessageId")
-                        .HasForeignKey("MessedgeUsersId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("MessegeUsersId");
 
                     b.HasOne("LocalChat.Core.Entities.User", "Sender")
                         .WithMany()
@@ -166,7 +167,7 @@ namespace LocalChat.Core.Migrations
                     b.Navigation("Sender");
                 });
 
-            modelBuilder.Entity("LocalChat.Core.Entities.MessedgeUsers", b =>
+            modelBuilder.Entity("LocalChat.Core.Entities.MessegeUsers", b =>
                 {
                     b.HasOne("LocalChat.Core.Entities.User", "Receiver")
                         .WithMany()
@@ -182,7 +183,7 @@ namespace LocalChat.Core.Migrations
                     b.Navigation("Messages");
                 });
 
-            modelBuilder.Entity("LocalChat.Core.Entities.MessedgeUsers", b =>
+            modelBuilder.Entity("LocalChat.Core.Entities.MessegeUsers", b =>
                 {
                     b.Navigation("MessageId");
                 });

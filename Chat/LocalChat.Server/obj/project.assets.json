@@ -1635,6 +1635,20 @@
         "runtime": {
           "bin/placeholder/LocalChat.Repository.dll": {}
         }
+      },
+      "Server.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "AutoMapper": "13.0.1",
+          "LocalChat.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Server.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Server.Infrastructure.dll": {}
+        }
       }
     }
   },
@@ -4583,6 +4597,11 @@
       "type": "project",
       "path": "../LocalChat.Reposetory/LocalChat.Repository.csproj",
       "msbuildProject": "../LocalChat.Reposetory/LocalChat.Repository.csproj"
+    },
+    "Server.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../Server.Infrastructure/Server.Infrastructure.csproj",
+      "msbuildProject": "../Server.Infrastructure/Server.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4593,6 +4612,7 @@
       "Microsoft.EntityFrameworkCore.Design >= 8.0.6",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.6",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.6",
+      "Server.Infrastructure >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.4.0"
     ]
   },
@@ -4634,6 +4654,9 @@
             },
             "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Reposetory\\LocalChat.Repository.csproj": {
               "projectPath": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Reposetory\\LocalChat.Repository.csproj"
+            },
+            "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\Server.Infrastructure\\Server.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\Server.Infrastructure\\Server.Infrastructure.csproj"
             }
           }
         }

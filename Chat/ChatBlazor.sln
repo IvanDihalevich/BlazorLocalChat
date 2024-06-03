@@ -21,7 +21,16 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LocalChat.Repository", "Loc
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastrusture", "Infrastrusture", "{D4DEEC4B-A502-4910-AC12-A9DADEBE43A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server.Infrastructure", "Server.Infrastructure\Server.Infrastructure.csproj", "{27E40C38-CCA8-4B6E-9FFD-E31B1035BF1C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Server.Infrastructure", "Server.Infrastructure\Server.Infrastructure.csproj", "{27E40C38-CCA8-4B6E-9FFD-E31B1035BF1C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Service", "Service", "{5ED08E55-0D4E-4F81-8FA0-D692E6508C3A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorChat.Service", "BlazorChat.Service\BlazorChat.Service.csproj", "{15D148D6-D843-40FC-8524-6AC2F8343274}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BADE9221-1CCA-4092-9EAE-85CEF2781207}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -49,6 +58,10 @@ Global
 		{27E40C38-CCA8-4B6E-9FFD-E31B1035BF1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27E40C38-CCA8-4B6E-9FFD-E31B1035BF1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27E40C38-CCA8-4B6E-9FFD-E31B1035BF1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15D148D6-D843-40FC-8524-6AC2F8343274}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15D148D6-D843-40FC-8524-6AC2F8343274}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15D148D6-D843-40FC-8524-6AC2F8343274}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15D148D6-D843-40FC-8524-6AC2F8343274}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -62,6 +75,8 @@ Global
 		{6BF3E2C9-C737-424F-A106-A9EC60F1C7A1} = {70A72780-4CB9-46E2-8C6D-B4F1BCE324C8}
 		{D4DEEC4B-A502-4910-AC12-A9DADEBE43A8} = {5E202949-6FE4-49AA-B76D-D8DA9CEB21BA}
 		{27E40C38-CCA8-4B6E-9FFD-E31B1035BF1C} = {D4DEEC4B-A502-4910-AC12-A9DADEBE43A8}
+		{5ED08E55-0D4E-4F81-8FA0-D692E6508C3A} = {5E202949-6FE4-49AA-B76D-D8DA9CEB21BA}
+		{15D148D6-D843-40FC-8524-6AC2F8343274} = {5ED08E55-0D4E-4F81-8FA0-D692E6508C3A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5C015A9C-594A-4C41-B985-598A93373079}

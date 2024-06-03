@@ -1,0 +1,13 @@
+C:\Users\Kripa\Documents\GitHub\BlazorLocalChat\Chat\BlazorChat.Service\bin\Debug\net8.0\BlazorChat.Service.deps.json
+C:\Users\Kripa\Documents\GitHub\BlazorLocalChat\Chat\BlazorChat.Service\bin\Debug\net8.0\BlazorChat.Service.dll
+C:\Users\Kripa\Documents\GitHub\BlazorLocalChat\Chat\BlazorChat.Service\bin\Debug\net8.0\BlazorChat.Service.pdb
+C:\Users\Kripa\Documents\GitHub\BlazorLocalChat\Chat\BlazorChat.Service\obj\Debug\net8.0\BlazorChat.Service.csproj.AssemblyReference.cache
+C:\Users\Kripa\Documents\GitHub\BlazorLocalChat\Chat\BlazorChat.Service\obj\Debug\net8.0\BlazorChat.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kripa\Documents\GitHub\BlazorLocalChat\Chat\BlazorChat.Service\obj\Debug\net8.0\BlazorChat.Service.AssemblyInfoInputs.cache
+C:\Users\Kripa\Documents\GitHub\BlazorLocalChat\Chat\BlazorChat.Service\obj\Debug\net8.0\BlazorChat.Service.AssemblyInfo.cs
+C:\Users\Kripa\Documents\GitHub\BlazorLocalChat\Chat\BlazorChat.Service\obj\Debug\net8.0\BlazorChat.Service.csproj.CoreCompileInputs.cache
+C:\Users\Kripa\Documents\GitHub\BlazorLocalChat\Chat\BlazorChat.Service\obj\Debug\net8.0\BlazorChat.Service.sourcelink.json
+C:\Users\Kripa\Documents\GitHub\BlazorLocalChat\Chat\BlazorChat.Service\obj\Debug\net8.0\BlazorChat.Service.dll
+C:\Users\Kripa\Documents\GitHub\BlazorLocalChat\Chat\BlazorChat.Service\obj\Debug\net8.0\refint\BlazorChat.Service.dll
+C:\Users\Kripa\Documents\GitHub\BlazorLocalChat\Chat\BlazorChat.Service\obj\Debug\net8.0\BlazorChat.Service.pdb
+C:\Users\Kripa\Documents\GitHub\BlazorLocalChat\Chat\BlazorChat.Service\obj\Debug\net8.0\ref\BlazorChat.Service.dll

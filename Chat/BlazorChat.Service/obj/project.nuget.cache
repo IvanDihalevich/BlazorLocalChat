@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "P4rTt75vOYA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\BlazorChat.Service\\BlazorChat.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kripa\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.5\\microsoft.aspnetcore.authorization.8.0.5.nupkg.sha512",
+    "C:\\Users\\Kripa\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.5\\microsoft.aspnetcore.components.8.0.5.nupkg.sha512",
+    "C:\\Users\\Kripa\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\8.0.5\\microsoft.aspnetcore.components.analyzers.8.0.5.nupkg.sha512",
+    "C:\\Users\\Kripa\\.nuget\\packages\\microsoft.aspnetcore.metadata\\8.0.5\\microsoft.aspnetcore.metadata.8.0.5.nupkg.sha512",
+    "C:\\Users\\Kripa\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\Kripa\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.1\\microsoft.extensions.logging.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\Kripa\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "C:\\Users\\Kripa\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

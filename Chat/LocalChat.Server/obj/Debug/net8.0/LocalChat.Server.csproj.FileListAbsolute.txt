@@ -140,3 +140,5 @@ C:\Users\Kripa\Documents\GitHub\BlazorLocalChat\Chat\LocalChat.Server\obj\Debug\
 C:\Users\Kripa\Documents\GitHub\BlazorLocalChat\Chat\LocalChat.Server\bin\Debug\net8.0\LocalChat.Repository.dll
 C:\Users\Kripa\Documents\GitHub\BlazorLocalChat\Chat\LocalChat.Server\bin\Debug\net8.0\LocalChat.Repository.pdb
 C:\Users\Kripa\Documents\GitHub\BlazorLocalChat\Chat\LocalChat.Server\obj\Debug\net8.0\LocalChat.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kripa\Documents\GitHub\BlazorLocalChat\Chat\LocalChat.Server\bin\Debug\net8.0\Server.Infrastructure.dll
+C:\Users\Kripa\Documents\GitHub\BlazorLocalChat\Chat\LocalChat.Server\bin\Debug\net8.0\Server.Infrastructure.pdb

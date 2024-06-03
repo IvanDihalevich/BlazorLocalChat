@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LocalChat.Core.Entities
 {
-    public class ChatRoomUsers
+    public class ChatRoomUsers: IEntity<Guid>
     {
         public Guid Id { get; set; }
         public User user { get; set; }

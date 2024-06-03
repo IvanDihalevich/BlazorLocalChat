@@ -14,6 +14,7 @@
           "Microsoft.EntityFrameworkCore.Design": "8.0.6",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.6",
           "Microsoft.EntityFrameworkCore.Tools": "8.0.6",
+          "Server.Infrastructure": "1.0.0",
           "Swashbuckle.AspNetCore": "6.4.0"
         },
         "runtime": {
@@ -938,6 +939,15 @@
         "runtime": {
           "LocalChat.Repository.dll": {}
         }
+      },
+      "Server.Infrastructure/1.0.0": {
+        "dependencies": {
+          "AutoMapper": "13.0.1",
+          "LocalChat.Core": "1.0.0"
+        },
+        "runtime": {
+          "Server.Infrastructure.dll": {}
+        }
       }
     }
   },
@@ -1534,6 +1544,11 @@
       "sha512": ""
     },
     "LocalChat.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Server.Infrastructure/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

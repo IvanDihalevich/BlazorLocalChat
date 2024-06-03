@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace LocalChat.Core.Migrations
 {
     /// <inheritdoc />
-    public partial class Init : Migration
+    public partial class ini : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -87,7 +87,8 @@ namespace LocalChat.Core.Migrations
                     Text = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     SendTime = table.Column<DateTime>(type: "datetime2", nullable: false),
                     ChatRoomId = table.Column<Guid>(type: "uniqueidentifier", nullable: false),
-                    MessedgeUsersId = table.Column<Guid>(type: "uniqueidentifier", nullable: false)
+                    MessedgeUsersId = table.Column<Guid>(type: "uniqueidentifier", nullable: false),
+                    MessegeUsersId = table.Column<Guid>(type: "uniqueidentifier", nullable: true)
                 },
                 constraints: table =>
                 {
@@ -105,11 +106,10 @@ namespace LocalChat.Core.Migrations
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Restrict);
                     table.ForeignKey(
-                        name: "FK_Messages_messedgeUsers_MessedgeUsersId",
-                        column: x => x.MessedgeUsersId,
+                        name: "FK_Messages_messedgeUsers_MessegeUsersId",
+                        column: x => x.MessegeUsersId,
                         principalTable: "messedgeUsers",
-                        principalColumn: "Id",
-                        onDelete: ReferentialAction.Cascade);
+                        principalColumn: "Id");
                 });
 
             migrationBuilder.CreateIndex(
@@ -128,9 +128,9 @@ namespace LocalChat.Core.Migrations
                 column: "ChatRoomId");
 
             migrationBuilder.CreateIndex(
-                name: "IX_Messages_MessedgeUsersId",
+                name: "IX_Messages_MessegeUsersId",
                 table: "Messages",
-                column: "MessedgeUsersId");
+                column: "MessegeUsersId");
 
             migrationBuilder.CreateIndex(
                 name: "IX_Messages_SenderId",

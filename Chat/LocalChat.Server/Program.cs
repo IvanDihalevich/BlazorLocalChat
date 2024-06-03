@@ -1,20 +1,29 @@
 using LocalChat.Core.Context;
+using LocalChat.Core.Entities;
+using LocalChat.Reposetory.CommonR;
 using Microsoft.EntityFrameworkCore;
+using Server.Infrastructure.Helper;
+
+Repository<ChatRoom, Guid> _chatroomRepository;
+Repository<ChatRoomUsers, Guid> _chatRoomUsersRepository;
+Repository<Message, Guid> _messageRepository;
+Repository<MessegeUsers, Guid> _messegeUsersRepository;
+Repository<User, Guid> _userRepository;
+
 
 var builder = WebApplication.CreateBuilder(args);
-
-// Add services to the container.
-
 
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection") ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
 builder.Services.AddDbContext<ChatContext>(options =>
     options.UseSqlServer(connectionString));
 
+builder.Services.AddAutoMapper(typeof(MappingProfiles));
 
 builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddScoped(typeof(IRepository<,>), typeof(Repository<,>));
+
 
 builder.Services.AddRouting(options => options.LowercaseUrls = true);
 builder.Services.AddCors(options =>
@@ -30,9 +39,6 @@ builder.Services.AddCors(options =>
 var app = builder.Build();
 app.UseCors("AllowBlazorClient");
 
-builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
-
-// Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();

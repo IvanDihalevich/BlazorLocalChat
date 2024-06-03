@@ -14,5 +14,5 @@ namespace LocalChat.Reposetory.CommonR
         Task UpdateAsync(TEntity entity);
         Task DeleteAsync(TKey id);
         Task SaveAsync();
-    }
+    }   
 }
