@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "LocalChat",
   "resources": {
-    "hash": "sha256-xeiKlEFKcw+Q00llIRJ4iZvoZg2PPoE07WTxsaluBtk=",
+    "hash": "sha256-ZhvXiH1prN15ln/OnILmVf7xnnTieYay9hYXFf5pdVg=",
     "jsModuleNative": {
       "dotnet.native.8.0.5.ew1vqrwwsw.js": "sha256-boyHe+0RMZDkzBKGhsrnXPhPg3oZ6UqJnTUzngJPjNY="
     },
@@ -251,10 +251,18 @@
       "mscorlib.wasm": "sha256-XvLAB5IyfVSmj5aaGnPwgVFaaZz8jXmbN8WmeopiPBM=",
       "netstandard.wasm": "sha256-TbMssdnuTiKq1gjTPkpgROAuWN0uhvPnagvWR+wAgNs=",
       "System.Private.CoreLib.wasm": "sha256-sscg+Efk8ROPq+q4IVmhShzITuoOYvB8Bsc+Mp9vcSM=",
-      "LocalChat.wasm": "sha256-ylXhiEMkIldyMwDiY3T0L4ZvRVjfLPiANqZ9V2zMnic="
+      "BlazorChat.Service.wasm": "sha256-WkG0lXBe6v3yBGl/MD8uA6bwYlWLpxQsLd3WtSRXmoE=",
+      "LocalChat.Core.wasm": "sha256-0BUZ9xCyun5zub3MSIq3l+JTkkHtaOba/NxM/zc2g14=",
+      "LocalChat.Repository.wasm": "sha256-1V0j4hc4W0XgLkmY9iUKd++fmm+bar3PWG/CZIcV6UI=",
+      "Server.Infrastructure.wasm": "sha256-1PwBsqV41n6Rn9d7ecTSagqKYnDBj2oxLidqdzlT0t4=",
+      "LocalChat.wasm": "sha256-fa7eJSnbMOwzAMxD4qRZawGw4fr7IYnNE21bNlTevxI="
     },
     "pdb": {
-      "LocalChat.pdb": "sha256-UcLJ8YlUlmfd8u4eoBJp0FpKRNwQYf3UvyzEzDnKCtg="
+      "BlazorChat.Service.pdb": "sha256-7J9Gsg1bxFMGCr46H/5VMFHk8iEhfc1QdpFUc1TGrpk=",
+      "LocalChat.Core.pdb": "sha256-pPWsJyMfPeXhJUREbnGvtfxOW2OqOM8Ll57MsFawdvs=",
+      "LocalChat.Repository.pdb": "sha256-1Y6x4YjKxSxlk4Nc/9YIRhrjglY24NNLRw6U/fp9XUc=",
+      "Server.Infrastructure.pdb": "sha256-JGA7dcM/bMbfeVQ0iDIOrN4obv33oieRu6zKdNqY9Bg=",
+      "LocalChat.pdb": "sha256-LfMXyedTJa7uTQt2V1xmZRSmrlXcXRCms3sqqG/I9Qw="
     },
     "satelliteResources": {
       "cs": {

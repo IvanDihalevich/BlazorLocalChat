@@ -34,6 +34,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Kripa/Documents/GitHub/BlazorLocalChat/Chat/LocalChat/Pages/Messages/Add.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVzc2FnZXNcQWRkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kripa/Documents/GitHub/BlazorLocalChat/Chat/LocalChat/Pages/Messages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVzc2FnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Kripa/Documents/GitHub/BlazorLocalChat/Chat/LocalChat/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 

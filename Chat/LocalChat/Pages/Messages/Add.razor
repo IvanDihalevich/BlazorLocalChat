@@ -1,0 +1,28 @@
+﻿@page "/message/add"
+@using System.Text.Json
+@* @inject IObjService<GenreDto, GenreCreateDto, GenreUpdateDto> GenreService
+@inject IMapper _mapper
+@inject NavigationManager NavigationManager
+
+<PageTitle>Add genre</PageTitle>
+<h3>Add genre</h3>
+<EditForm Model="genre" OnSubmit="HandleSubmit" FormName="AddGenre">
+    <div>
+        <label for="title">Title</label>
+        <InputText @bind-Value="genre.Title" class="form-control"></InputText>
+    </div>
+    <br />
+    <button type="submit" class="btn btn-primary">Create Genre</button>
+</EditForm>
+@code {
+
+    GenreCreateDto genre = new GenreCreateDto();
+
+    async Task HandleSubmit()
+    {
+        await GenreService.CreateObject(genre);
+    }
+}
+
+ *@
+ <h1>Hllo</h1>
