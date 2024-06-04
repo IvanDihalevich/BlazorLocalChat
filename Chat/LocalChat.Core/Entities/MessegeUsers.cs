@@ -9,8 +9,7 @@ namespace LocalChat.Core.Entities
     public class MessegeUsers : IEntity<Guid>
     {
         public Guid Id { get; set; }
-        public List<Message>? MessageId { get; set; }
-        public User Receiver { get; set; }
+        public int number { get; set; }
 
     }
 }

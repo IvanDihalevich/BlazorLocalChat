@@ -9,7 +9,6 @@ namespace LocalChat.Core.Entities
     public class ChatRoomUsers: IEntity<Guid>
     {
         public Guid Id { get; set; }
-        public User user { get; set; }
-        public ChatRoom chatRoomId { get; set; }
+        public string Name { get; set; }
     }
 }

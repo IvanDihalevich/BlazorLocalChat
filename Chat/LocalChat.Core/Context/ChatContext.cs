@@ -24,13 +24,6 @@ namespace LocalChat.Core.Context
 
             base.OnModelCreating(builder);
 
-            // Встановлення відношення між `Message` і `User`
-            builder.Entity<Message>()
-                .HasOne(m => m.Sender)  // Відношення один до одного
-                .WithMany()  // Користувач може мати багато повідомлень
-                .HasForeignKey(m => m.SenderId)  // Вказуємо, що `SenderId` - це зовнішній ключ
-                .OnDelete(DeleteBehavior.Restrict);  // Опція на випадок видалення користувача
-
         }
     }
 }
