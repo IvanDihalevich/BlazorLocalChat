@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LocalChat.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b70b8d59acf8471ede7804265930fb66b3500e37")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54f3f6071cd46c904f80f87a197e2deff8bcee9a")]
+>>>>>>> parent of b70b8d5 (working with views)
 [assembly: System.Reflection.AssemblyProductAttribute("LocalChat.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LocalChat.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

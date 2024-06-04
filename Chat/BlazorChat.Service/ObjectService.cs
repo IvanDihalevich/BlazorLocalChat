@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace BlazorChat.Service
 {
-    public class ObjectService<T, CreateDto, UpdateDto> : IObjectService<T, CreateDto, UpdateDto> where T : class where CreateDto : class where UpdateDto : class
+    internal class ObjectService<T, CreateDto, UpdateDto> : IObjectService<T, CreateDto, UpdateDto> where T : class where CreateDto : class where UpdateDto : class
     {
         private readonly HttpClient _http;
         private readonly NavigationManager _navigationManager;
