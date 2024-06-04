@@ -3,9 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\",
   "Documents": [
     {
-<<<<<<< HEAD
-      "AbsoluteMoniker": "D:0:0:{C2EF0CEC-6628-47D6-AFFB-BA147DE300FF}|LocalChat\\LocalChat.csproj|c:\\users\\kripa\\documents\\github\\blazorlocalchat\\chat\\localchat\\pages\\messages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C2EF0CEC-6628-47D6-AFFB-BA147DE300FF}|LocalChat\\LocalChat.csproj|solutionrelative:localchat\\pages\\messages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat\\Pages\\Messages\\Index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LocalChat\\Pages\\Messages\\Index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4B46E05F-1CE3-4896-B7F5-A51C1A530728}|LocalChat.Server\\LocalChat.Server.csproj|c:\\users\\kripa\\documents\\github\\blazorlocalchat\\chat\\localchat.server\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -48,10 +47,6 @@
       "RelativeMoniker": "D:0:0:{4B46E05F-1CE3-4896-B7F5-A51C1A530728}|LocalChat.Server\\LocalChat.Server.csproj|solutionrelative:localchat.server\\controllers\\messageuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2EF0CEC-6628-47D6-AFFB-BA147DE300FF}|LocalChat\\LocalChat.csproj|c:\\users\\kripa\\documents\\github\\blazorlocalchat\\chat\\localchat\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2EF0CEC-6628-47D6-AFFB-BA147DE300FF}|LocalChat\\LocalChat.csproj|solutionrelative:localchat\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6648642F-A623-45F6-A5DE-14A551AA3419}|LocalChat.Core\\LocalChat.Core.csproj|c:\\users\\kripa\\documents\\github\\blazorlocalchat\\chat\\localchat.core\\entities\\messegeusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6648642F-A623-45F6-A5DE-14A551AA3419}|LocalChat.Core\\LocalChat.Core.csproj|solutionrelative:localchat.core\\entities\\messegeusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -62,18 +57,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{6648642F-A623-45F6-A5DE-14A551AA3419}|LocalChat.Core\\LocalChat.Core.csproj|c:\\users\\kripa\\documents\\github\\blazorlocalchat\\chat\\localchat.core\\entities\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6648642F-A623-45F6-A5DE-14A551AA3419}|LocalChat.Core\\LocalChat.Core.csproj|solutionrelative:localchat.core\\entities\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-=======
-      "AbsoluteMoniker": "D:0:0:{4B46E05F-1CE3-4896-B7F5-A51C1A530728}|LocalChat.Server\\LocalChat.Server.csproj|c:\\users\\kripa\\documents\\github\\blazorlocalchat\\chat\\localchat.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B46E05F-1CE3-4896-B7F5-A51C1A530728}|LocalChat.Server\\LocalChat.Server.csproj|solutionrelative:localchat.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
->>>>>>> parent of b70b8d5 (working with views)
     },
     {
       "AbsoluteMoniker": "D:0:0:{27E40C38-CCA8-4B6E-9FFD-E31B1035BF1C}|Server.Infrastructure\\Server.Infrastructure.csproj|c:\\users\\kripa\\documents\\github\\blazorlocalchat\\chat\\server.infrastructure\\server.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{27E40C38-CCA8-4B6E-9FFD-E31B1035BF1C}|Server.Infrastructure\\Server.Infrastructure.csproj|solutionrelative:server.infrastructure\\server.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B46E05F-1CE3-4896-B7F5-A51C1A530728}|LocalChat.Server\\LocalChat.Server.csproj|c:\\users\\kripa\\documents\\github\\blazorlocalchat\\chat\\localchat.server\\controllers\\chatroomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B46E05F-1CE3-4896-B7F5-A51C1A530728}|LocalChat.Server\\LocalChat.Server.csproj|solutionrelative:localchat.server\\controllers\\chatroomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4B46E05F-1CE3-4896-B7F5-A51C1A530728}|LocalChat.Server\\LocalChat.Server.csproj|c:\\users\\kripa\\documents\\github\\blazorlocalchat\\chat\\localchat.server\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -92,48 +79,20 @@
       "RelativeMoniker": "D:0:0:{6BF3E2C9-C737-424F-A106-A9EC60F1C7A1}|LocalChat.Reposetory\\LocalChat.Repository.csproj|solutionrelative:localchat.reposetory\\chatrooms\\chatroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6648642F-A623-45F6-A5DE-14A551AA3419}|LocalChat.Core\\LocalChat.Core.csproj|c:\\users\\kripa\\documents\\github\\blazorlocalchat\\chat\\localchat.core\\entities\\chatroomusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6648642F-A623-45F6-A5DE-14A551AA3419}|LocalChat.Core\\LocalChat.Core.csproj|solutionrelative:localchat.core\\entities\\chatroomusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6BF3E2C9-C737-424F-A106-A9EC60F1C7A1}|LocalChat.Reposetory\\LocalChat.Repository.csproj|c:\\users\\kripa\\documents\\github\\blazorlocalchat\\chat\\localchat.reposetory\\chatrooms\\ichatroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BF3E2C9-C737-424F-A106-A9EC60F1C7A1}|LocalChat.Reposetory\\LocalChat.Repository.csproj|solutionrelative:localchat.reposetory\\chatrooms\\ichatroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Core\\Migrations\\20240603204957_ini.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LocalChat.Core\\Migrations\\20240603204957_ini.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Core\\Migrations\\20240603204834_ini.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LocalChat.Core\\Migrations\\20240603204834_ini.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B46E05F-1CE3-4896-B7F5-A51C1A530728}|LocalChat.Server\\LocalChat.Server.csproj|c:\\users\\kripa\\documents\\github\\blazorlocalchat\\chat\\localchat.server\\controllers\\chatroomuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B46E05F-1CE3-4896-B7F5-A51C1A530728}|LocalChat.Server\\LocalChat.Server.csproj|solutionrelative:localchat.server\\controllers\\chatroomuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{27E40C38-CCA8-4B6E-9FFD-E31B1035BF1C}|Server.Infrastructure\\Server.Infrastructure.csproj|c:\\users\\kripa\\documents\\github\\blazorlocalchat\\chat\\server.infrastructure\\chatroomusersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27E40C38-CCA8-4B6E-9FFD-E31B1035BF1C}|Server.Infrastructure\\Server.Infrastructure.csproj|solutionrelative:server.infrastructure\\chatroomusersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B46E05F-1CE3-4896-B7F5-A51C1A530728}|LocalChat.Server\\LocalChat.Server.csproj|c:\\users\\kripa\\documents\\github\\blazorlocalchat\\chat\\localchat.server\\controllers\\messageuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B46E05F-1CE3-4896-B7F5-A51C1A530728}|LocalChat.Server\\LocalChat.Server.csproj|solutionrelative:localchat.server\\controllers\\messageuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B46E05F-1CE3-4896-B7F5-A51C1A530728}|LocalChat.Server\\LocalChat.Server.csproj|c:\\users\\kripa\\documents\\github\\blazorlocalchat\\chat\\localchat.server\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B46E05F-1CE3-4896-B7F5-A51C1A530728}|LocalChat.Server\\LocalChat.Server.csproj|solutionrelative:localchat.server\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BF3E2C9-C737-424F-A106-A9EC60F1C7A1}|LocalChat.Reposetory\\LocalChat.Repository.csproj|c:\\users\\kripa\\documents\\github\\blazorlocalchat\\chat\\localchat.reposetory\\messageusers\\imessageusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BF3E2C9-C737-424F-A106-A9EC60F1C7A1}|LocalChat.Reposetory\\LocalChat.Repository.csproj|solutionrelative:localchat.reposetory\\messageusers\\imessageusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4B46E05F-1CE3-4896-B7F5-A51C1A530728}|LocalChat.Server\\LocalChat.Server.csproj|c:\\users\\kripa\\documents\\github\\blazorlocalchat\\chat\\localchat.server\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B46E05F-1CE3-4896-B7F5-A51C1A530728}|LocalChat.Server\\LocalChat.Server.csproj|solutionrelative:localchat.server\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15D148D6-D843-40FC-8524-6AC2F8343274}|BlazorChat.Service\\BlazorChat.Service.csproj|c:\\users\\kripa\\documents\\github\\blazorlocalchat\\chat\\blazorchat.service\\objectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15D148D6-D843-40FC-8524-6AC2F8343274}|BlazorChat.Service\\BlazorChat.Service.csproj|solutionrelative:blazorchat.service\\objectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4B46E05F-1CE3-4896-B7F5-A51C1A530728}|LocalChat.Server\\LocalChat.Server.csproj|c:\\users\\kripa\\documents\\github\\blazorlocalchat\\chat\\localchat.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -152,10 +111,6 @@
       "RelativeMoniker": "D:0:0:{6BF3E2C9-C737-424F-A106-A9EC60F1C7A1}|LocalChat.Reposetory\\LocalChat.Repository.csproj|solutionrelative:localchat.reposetory\\user\\iusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BF3E2C9-C737-424F-A106-A9EC60F1C7A1}|LocalChat.Reposetory\\LocalChat.Repository.csproj|c:\\users\\kripa\\documents\\github\\blazorlocalchat\\chat\\localchat.reposetory\\messageusers\\messageusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BF3E2C9-C737-424F-A106-A9EC60F1C7A1}|LocalChat.Reposetory\\LocalChat.Repository.csproj|solutionrelative:localchat.reposetory\\messageusers\\messageusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6BF3E2C9-C737-424F-A106-A9EC60F1C7A1}|LocalChat.Reposetory\\LocalChat.Repository.csproj|c:\\users\\kripa\\documents\\github\\blazorlocalchat\\chat\\localchat.reposetory\\message\\messagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BF3E2C9-C737-424F-A106-A9EC60F1C7A1}|LocalChat.Reposetory\\LocalChat.Repository.csproj|solutionrelative:localchat.reposetory\\message\\messagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -172,40 +127,8 @@
       "RelativeMoniker": "D:0:0:{6BF3E2C9-C737-424F-A106-A9EC60F1C7A1}|LocalChat.Reposetory\\LocalChat.Repository.csproj|solutionrelative:localchat.reposetory\\chatroomusers rep\\chatroomusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15D148D6-D843-40FC-8524-6AC2F8343274}|BlazorChat.Service\\BlazorChat.Service.csproj|c:\\users\\kripa\\documents\\github\\blazorlocalchat\\chat\\blazorchat.service\\iobjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15D148D6-D843-40FC-8524-6AC2F8343274}|BlazorChat.Service\\BlazorChat.Service.csproj|solutionrelative:blazorchat.service\\iobjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{27E40C38-CCA8-4B6E-9FFD-E31B1035BF1C}|Server.Infrastructure\\Server.Infrastructure.csproj|c:\\users\\kripa\\documents\\github\\blazorlocalchat\\chat\\server.infrastructure\\chatroommodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27E40C38-CCA8-4B6E-9FFD-E31B1035BF1C}|Server.Infrastructure\\Server.Infrastructure.csproj|solutionrelative:server.infrastructure\\chatroommodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27E40C38-CCA8-4B6E-9FFD-E31B1035BF1C}|Server.Infrastructure\\Server.Infrastructure.csproj|c:\\users\\kripa\\documents\\github\\blazorlocalchat\\chat\\server.infrastructure\\helper\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27E40C38-CCA8-4B6E-9FFD-E31B1035BF1C}|Server.Infrastructure\\Server.Infrastructure.csproj|solutionrelative:server.infrastructure\\helper\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27E40C38-CCA8-4B6E-9FFD-E31B1035BF1C}|Server.Infrastructure\\Server.Infrastructure.csproj|c:\\users\\kripa\\documents\\github\\blazorlocalchat\\chat\\server.infrastructure\\messegeusersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27E40C38-CCA8-4B6E-9FFD-E31B1035BF1C}|Server.Infrastructure\\Server.Infrastructure.csproj|solutionrelative:server.infrastructure\\messegeusersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27E40C38-CCA8-4B6E-9FFD-E31B1035BF1C}|Server.Infrastructure\\Server.Infrastructure.csproj|c:\\users\\kripa\\documents\\github\\blazorlocalchat\\chat\\server.infrastructure\\messagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27E40C38-CCA8-4B6E-9FFD-E31B1035BF1C}|Server.Infrastructure\\Server.Infrastructure.csproj|solutionrelative:server.infrastructure\\messagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27E40C38-CCA8-4B6E-9FFD-E31B1035BF1C}|Server.Infrastructure\\Server.Infrastructure.csproj|c:\\users\\kripa\\documents\\github\\blazorlocalchat\\chat\\server.infrastructure\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27E40C38-CCA8-4B6E-9FFD-E31B1035BF1C}|Server.Infrastructure\\Server.Infrastructure.csproj|solutionrelative:server.infrastructure\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6648642F-A623-45F6-A5DE-14A551AA3419}|LocalChat.Core\\LocalChat.Core.csproj|c:\\users\\kripa\\documents\\github\\blazorlocalchat\\chat\\localchat.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6648642F-A623-45F6-A5DE-14A551AA3419}|LocalChat.Core\\LocalChat.Core.csproj|solutionrelative:localchat.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6648642F-A623-45F6-A5DE-14A551AA3419}|LocalChat.Core\\LocalChat.Core.csproj|c:\\users\\kripa\\documents\\github\\blazorlocalchat\\chat\\localchat.core\\entities\\messegeusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6648642F-A623-45F6-A5DE-14A551AA3419}|LocalChat.Core\\LocalChat.Core.csproj|solutionrelative:localchat.core\\entities\\messegeusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6648642F-A623-45F6-A5DE-14A551AA3419}|LocalChat.Core\\LocalChat.Core.csproj|c:\\users\\kripa\\documents\\github\\blazorlocalchat\\chat\\localchat.core\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6648642F-A623-45F6-A5DE-14A551AA3419}|LocalChat.Core\\LocalChat.Core.csproj|solutionrelative:localchat.core\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4B46E05F-1CE3-4896-B7F5-A51C1A530728}|LocalChat.Server\\LocalChat.Server.csproj|c:\\users\\kripa\\documents\\github\\blazorlocalchat\\chat\\localchat.server\\localchat.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -236,8 +159,12 @@
       "RelativeMoniker": "D:0:0:{6648642F-A623-45F6-A5DE-14A551AA3419}|LocalChat.Core\\LocalChat.Core.csproj|solutionrelative:localchat.core\\context\\chatcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6648642F-A623-45F6-A5DE-14A551AA3419}|LocalChat.Core\\LocalChat.Core.csproj|c:\\users\\kripa\\documents\\github\\blazorlocalchat\\chat\\localchat.core\\entities\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6648642F-A623-45F6-A5DE-14A551AA3419}|LocalChat.Core\\LocalChat.Core.csproj|solutionrelative:localchat.core\\entities\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6648642F-A623-45F6-A5DE-14A551AA3419}|LocalChat.Core\\LocalChat.Core.csproj|c:\\users\\kripa\\documents\\github\\blazorlocalchat\\chat\\localchat.core\\migrations\\20240603204957_ini.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6648642F-A623-45F6-A5DE-14A551AA3419}|LocalChat.Core\\LocalChat.Core.csproj|solutionrelative:localchat.core\\migrations\\20240603204957_ini.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat\\MappingProfiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LocalChat\\MappingProfiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -246,18 +173,9 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-<<<<<<< HEAD
           "DockedWidth": 428,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -290,43 +208,11 @@
               "RelativeDocumentMoniker": "LocalChat\\Pages\\Messages\\Index.razor",
               "ToolTip": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat\\Pages\\Messages\\Index.razor",
               "RelativeToolTip": "LocalChat\\Pages\\Messages\\Index.razor",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-03T22:32:25.32Z",
-=======
-          "DockedWidth": 424,
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Server.Infrastructure",
-              "DocumentMoniker": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\Server.Infrastructure\\Server.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "Server.Infrastructure\\Server.Infrastructure.csproj",
-              "ToolTip": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\Server.Infrastructure\\Server.Infrastructure.csproj",
-              "RelativeToolTip": "Server.Infrastructure\\Server.Infrastructure.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-03T21:03:54.066Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T00:20:57.979Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Server\\Program.cs",
-              "RelativeDocumentMoniker": "LocalChat.Server\\Program.cs",
-              "ToolTip": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Server\\Program.cs",
-              "RelativeToolTip": "LocalChat.Server\\Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T23:39:10.67Z",
->>>>>>> parent of b70b8d5 (working with views)
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
               "DocumentIndex": 3,
               "Title": "MessegeUsersModel.cs",
               "DocumentMoniker": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\Server.Infrastructure\\MessegeUsersModel.cs",
@@ -348,23 +234,10 @@
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-03T16:24:42.588Z"
-=======
-              "DocumentIndex": 6,
-              "Title": "ChatRoomRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Reposetory\\ChatRooms\\ChatRoomRepository.cs",
-              "RelativeDocumentMoniker": "LocalChat.Reposetory\\ChatRooms\\ChatRoomRepository.cs",
-              "ToolTip": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Reposetory\\ChatRooms\\ChatRoomRepository.cs",
-              "RelativeToolTip": "LocalChat.Reposetory\\ChatRooms\\ChatRoomRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T18:32:46.736Z",
-              "EditorCaption": ""
->>>>>>> parent of b70b8d5 (working with views)
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-<<<<<<< HEAD
               "Title": "LocalChat.Core.csproj",
               "DocumentMoniker": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Core\\LocalChat.Core.csproj",
               "RelativeDocumentMoniker": "LocalChat.Core\\LocalChat.Core.csproj",
@@ -401,144 +274,30 @@
             {
               "$type": "Document",
               "DocumentIndex": 8,
-=======
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Reposetory\\CommonR\\IRepository.cs",
-              "RelativeDocumentMoniker": "LocalChat.Reposetory\\CommonR\\IRepository.cs",
-              "ToolTip": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Reposetory\\CommonR\\IRepository.cs",
-              "RelativeToolTip": "LocalChat.Reposetory\\CommonR\\IRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T18:34:42.468Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Reposetory\\CommonR\\Repository.cs",
-              "RelativeDocumentMoniker": "LocalChat.Reposetory\\CommonR\\Repository.cs",
-              "ToolTip": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Reposetory\\CommonR\\Repository.cs",
-              "RelativeToolTip": "LocalChat.Reposetory\\CommonR\\Repository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T15:02:27.546Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
->>>>>>> parent of b70b8d5 (working with views)
               "Title": "ChatRoomController.cs",
               "DocumentMoniker": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Server\\Controllers\\ChatRoomController.cs",
               "RelativeDocumentMoniker": "LocalChat.Server\\Controllers\\ChatRoomController.cs",
               "ToolTip": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Server\\Controllers\\ChatRoomController.cs",
               "RelativeToolTip": "LocalChat.Server\\Controllers\\ChatRoomController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwAwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-03T17:15:33.754Z"
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
               "DocumentIndex": 9,
-=======
-              "DocumentIndex": 7,
-              "Title": "ChatRoomUsers.cs",
-              "DocumentMoniker": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Core\\Entities\\ChatRoomUsers.cs",
-              "RelativeDocumentMoniker": "LocalChat.Core\\Entities\\ChatRoomUsers.cs",
-              "ToolTip": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Core\\Entities\\ChatRoomUsers.cs",
-              "RelativeToolTip": "LocalChat.Core\\Entities\\ChatRoomUsers.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T23:52:26.522Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Server\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "LocalChat.Server\\WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Server\\WeatherForecast.cs",
-              "RelativeToolTip": "LocalChat.Server\\WeatherForecast.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T00:07:06.356Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IChatRoomRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Reposetory\\ChatRooms\\IChatRoomRepository.cs",
-              "RelativeDocumentMoniker": "LocalChat.Reposetory\\ChatRooms\\IChatRoomRepository.cs",
-              "ToolTip": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Reposetory\\ChatRooms\\IChatRoomRepository.cs",
-              "RelativeToolTip": "LocalChat.Reposetory\\ChatRooms\\IChatRoomRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T17:31:04.958Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "20240603204957_ini.cs",
-              "DocumentMoniker": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Core\\Migrations\\20240603204957_ini.cs",
-              "RelativeDocumentMoniker": "LocalChat.Core\\Migrations\\20240603204957_ini.cs",
-              "ToolTip": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Core\\Migrations\\20240603204957_ini.cs",
-              "RelativeToolTip": "LocalChat.Core\\Migrations\\20240603204957_ini.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAABaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T20:49:57.351Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "20240603204834_ini.cs",
-              "DocumentMoniker": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Core\\Migrations\\20240603204834_ini.cs",
-              "RelativeDocumentMoniker": "LocalChat.Core\\Migrations\\20240603204834_ini.cs",
-              "ToolTip": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Core\\Migrations\\20240603204834_ini.cs",
-              "RelativeToolTip": "LocalChat.Core\\Migrations\\20240603204834_ini.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T20:48:34.141Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
->>>>>>> parent of b70b8d5 (working with views)
               "Title": "ChatRoomUsersController.cs",
               "DocumentMoniker": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Server\\Controllers\\ChatRoomUsersController.cs",
               "RelativeDocumentMoniker": "LocalChat.Server\\Controllers\\ChatRoomUsersController.cs",
               "ToolTip": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Server\\Controllers\\ChatRoomUsersController.cs",
               "RelativeToolTip": "LocalChat.Server\\Controllers\\ChatRoomUsersController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAswB8AAAAAAAAA",
+              "ViewState": "AQIAACwAAAAAAAAAAAAcwCAAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-03T17:33:02.49Z"
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
               "DocumentIndex": 10,
-=======
-              "DocumentIndex": 12,
-              "Title": "ChatRoomUsersModel.cs",
-              "DocumentMoniker": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\Server.Infrastructure\\ChatRoomUsersModel.cs",
-              "RelativeDocumentMoniker": "Server.Infrastructure\\ChatRoomUsersModel.cs",
-              "ToolTip": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\Server.Infrastructure\\ChatRoomUsersModel.cs",
-              "RelativeToolTip": "Server.Infrastructure\\ChatRoomUsersModel.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T16:16:57.03Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
->>>>>>> parent of b70b8d5 (working with views)
               "Title": "MessageUsersController.cs",
               "DocumentMoniker": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Server\\Controllers\\MessageUsersController.cs",
               "RelativeDocumentMoniker": "LocalChat.Server\\Controllers\\MessageUsersController.cs",
@@ -550,8 +309,7 @@
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Core\\Entities\\User.cs",
               "RelativeDocumentMoniker": "LocalChat.Core\\Entities\\User.cs",
@@ -563,7 +321,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 40,
               "Title": "MappingProfiles.cs",
               "DocumentMoniker": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat\\MappingProfiles.cs",
               "RelativeDocumentMoniker": "LocalChat\\MappingProfiles.cs",
@@ -571,11 +329,11 @@
               "RelativeToolTip": "LocalChat\\MappingProfiles.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T22:23:33.507Z"
+              "WhenOpened": "2024-06-04T00:20:58.116Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "MessegeUsers.cs",
               "DocumentMoniker": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Core\\Entities\\MessegeUsers.cs",
               "RelativeDocumentMoniker": "LocalChat.Core\\Entities\\MessegeUsers.cs",
@@ -587,7 +345,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "IEntity.cs",
               "DocumentMoniker": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Core\\Entities\\IEntity.cs",
               "RelativeDocumentMoniker": "LocalChat.Core\\Entities\\IEntity.cs",
@@ -599,7 +357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 16,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Reposetory\\CommonR\\Repository.cs",
               "RelativeDocumentMoniker": "LocalChat.Reposetory\\CommonR\\Repository.cs",
@@ -611,7 +369,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Reposetory\\CommonR\\IRepository.cs",
               "RelativeDocumentMoniker": "LocalChat.Reposetory\\CommonR\\IRepository.cs",
@@ -623,7 +381,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "ChatRoomRepository.cs",
               "DocumentMoniker": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Reposetory\\ChatRooms\\ChatRoomRepository.cs",
               "RelativeDocumentMoniker": "LocalChat.Reposetory\\ChatRooms\\ChatRoomRepository.cs",
@@ -635,7 +393,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "Server.Infrastructure.csproj",
               "DocumentMoniker": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\Server.Infrastructure\\Server.Infrastructure.csproj",
               "RelativeDocumentMoniker": "Server.Infrastructure\\Server.Infrastructure.csproj",
@@ -647,7 +405,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Server\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "LocalChat.Server\\WeatherForecast.cs",
@@ -659,7 +417,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 19,
               "Title": "IChatRoomRepository.cs",
               "DocumentMoniker": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Reposetory\\ChatRooms\\IChatRoomRepository.cs",
               "RelativeDocumentMoniker": "LocalChat.Reposetory\\ChatRooms\\IChatRoomRepository.cs",
@@ -671,7 +429,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 39,
               "Title": "20240603204957_ini.cs",
               "DocumentMoniker": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Core\\Migrations\\20240603204957_ini.cs",
               "RelativeDocumentMoniker": "LocalChat.Core\\Migrations\\20240603204957_ini.cs",
@@ -683,7 +441,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 20,
               "Title": "20240603204834_ini.cs",
               "DocumentMoniker": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Core\\Migrations\\20240603204834_ini.cs",
               "RelativeDocumentMoniker": "LocalChat.Core\\Migrations\\20240603204834_ini.cs",
@@ -695,7 +453,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 21,
               "Title": "ChatRoomUsersModel.cs",
               "DocumentMoniker": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\Server.Infrastructure\\ChatRoomUsersModel.cs",
               "RelativeDocumentMoniker": "Server.Infrastructure\\ChatRoomUsersModel.cs",
@@ -707,36 +465,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-=======
-              "DocumentIndex": 14,
-              "Title": "MessageController.cs",
-              "DocumentMoniker": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Server\\Controllers\\MessageController.cs",
-              "RelativeDocumentMoniker": "LocalChat.Server\\Controllers\\MessageController.cs",
-              "ToolTip": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Server\\Controllers\\MessageController.cs",
-              "RelativeToolTip": "LocalChat.Server\\Controllers\\MessageController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T17:41:14.787Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IMessageUsersRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Reposetory\\MessageUsers\\IMessageUsersRepository.cs",
-              "RelativeDocumentMoniker": "LocalChat.Reposetory\\MessageUsers\\IMessageUsersRepository.cs",
-              "ToolTip": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Reposetory\\MessageUsers\\IMessageUsersRepository.cs",
-              "RelativeToolTip": "LocalChat.Reposetory\\MessageUsers\\IMessageUsersRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T15:44:11.678Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
->>>>>>> parent of b70b8d5 (working with views)
+              "DocumentIndex": 22,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Server\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "LocalChat.Server\\Controllers\\UserController.cs",
@@ -744,29 +473,11 @@
               "RelativeToolTip": "LocalChat.Server\\Controllers\\UserController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T17:51:25.804Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T17:51:25.804Z"
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 24,
-=======
-              "DocumentIndex": 17,
-              "Title": "ObjectService.cs",
-              "DocumentMoniker": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\BlazorChat.Service\\ObjectService.cs",
-              "RelativeDocumentMoniker": "BlazorChat.Service\\ObjectService.cs",
-              "ToolTip": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\BlazorChat.Service\\ObjectService.cs",
-              "RelativeToolTip": "BlazorChat.Service\\ObjectService.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAADwv00AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T19:04:40.419Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
->>>>>>> parent of b70b8d5 (working with views)
+              "DocumentIndex": 23,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Server\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "LocalChat.Server\\Controllers\\WeatherForecastController.cs",
@@ -774,16 +485,11 @@
               "RelativeToolTip": "LocalChat.Server\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T18:41:22.203Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T18:41:22.203Z"
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 25,
-=======
-              "DocumentIndex": 19,
->>>>>>> parent of b70b8d5 (working with views)
+              "DocumentIndex": 24,
               "Title": "ChatRoom.cs",
               "DocumentMoniker": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Core\\Entities\\ChatRoom.cs",
               "RelativeDocumentMoniker": "LocalChat.Core\\Entities\\ChatRoom.cs",
@@ -791,16 +497,11 @@
               "RelativeToolTip": "LocalChat.Core\\Entities\\ChatRoom.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T23:51:35.004Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-02T23:51:35.004Z"
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 26,
-=======
-              "DocumentIndex": 20,
->>>>>>> parent of b70b8d5 (working with views)
+              "DocumentIndex": 25,
               "Title": "UsersRepository.cs",
               "DocumentMoniker": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Reposetory\\User\\UsersRepository.cs",
               "RelativeDocumentMoniker": "LocalChat.Reposetory\\User\\UsersRepository.cs",
@@ -808,16 +509,11 @@
               "RelativeToolTip": "LocalChat.Reposetory\\User\\UsersRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T15:46:32.416Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T15:46:32.416Z"
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 27,
-=======
-              "DocumentIndex": 21,
->>>>>>> parent of b70b8d5 (working with views)
+              "DocumentIndex": 26,
               "Title": "IUsersRepository.cs",
               "DocumentMoniker": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Reposetory\\User\\IUsersRepository.cs",
               "RelativeDocumentMoniker": "LocalChat.Reposetory\\User\\IUsersRepository.cs",
@@ -825,29 +521,11 @@
               "RelativeToolTip": "LocalChat.Reposetory\\User\\IUsersRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T15:46:17.484Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T15:46:17.484Z"
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 28,
-=======
-              "DocumentIndex": 22,
-              "Title": "MessageUsersRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Reposetory\\MessageUsers\\MessageUsersRepository.cs",
-              "RelativeDocumentMoniker": "LocalChat.Reposetory\\MessageUsers\\MessageUsersRepository.cs",
-              "ToolTip": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Reposetory\\MessageUsers\\MessageUsersRepository.cs",
-              "RelativeToolTip": "LocalChat.Reposetory\\MessageUsers\\MessageUsersRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T15:43:55.879Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
->>>>>>> parent of b70b8d5 (working with views)
+              "DocumentIndex": 27,
               "Title": "MessageRepository.cs",
               "DocumentMoniker": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Reposetory\\Message\\MessageRepository.cs",
               "RelativeDocumentMoniker": "LocalChat.Reposetory\\Message\\MessageRepository.cs",
@@ -855,16 +533,11 @@
               "RelativeToolTip": "LocalChat.Reposetory\\Message\\MessageRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T15:40:40.762Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T15:40:40.762Z"
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 29,
-=======
-              "DocumentIndex": 24,
->>>>>>> parent of b70b8d5 (working with views)
+              "DocumentIndex": 28,
               "Title": "IMessageRepository.cs",
               "DocumentMoniker": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Reposetory\\Message\\IMessageRepository.cs",
               "RelativeDocumentMoniker": "LocalChat.Reposetory\\Message\\IMessageRepository.cs",
@@ -872,16 +545,11 @@
               "RelativeToolTip": "LocalChat.Reposetory\\Message\\IMessageRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T15:40:50.883Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T15:40:50.883Z"
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 30,
-=======
-              "DocumentIndex": 25,
->>>>>>> parent of b70b8d5 (working with views)
+              "DocumentIndex": 29,
               "Title": "IChatRoomUsersRepository.cs",
               "DocumentMoniker": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Reposetory\\ChatRoomUsers Rep\\IChatRoomUsersRepository.cs",
               "RelativeDocumentMoniker": "LocalChat.Reposetory\\ChatRoomUsers Rep\\IChatRoomUsersRepository.cs",
@@ -889,16 +557,11 @@
               "RelativeToolTip": "LocalChat.Reposetory\\ChatRoomUsers Rep\\IChatRoomUsersRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T18:32:35.035Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T18:32:35.035Z"
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 31,
-=======
-              "DocumentIndex": 26,
->>>>>>> parent of b70b8d5 (working with views)
+              "DocumentIndex": 30,
               "Title": "ChatRoomUsersRepository.cs",
               "DocumentMoniker": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Reposetory\\ChatRoomUsers Rep\\ChatRoomUsersRepository.cs",
               "RelativeDocumentMoniker": "LocalChat.Reposetory\\ChatRoomUsers Rep\\ChatRoomUsersRepository.cs",
@@ -906,28 +569,11 @@
               "RelativeToolTip": "LocalChat.Reposetory\\ChatRoomUsers Rep\\ChatRoomUsersRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T15:25:19.118Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T15:25:19.118Z"
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 32,
-=======
-              "DocumentIndex": 27,
-              "Title": "IObjectService.cs",
-              "DocumentMoniker": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\BlazorChat.Service\\IObjectService.cs",
-              "RelativeDocumentMoniker": "BlazorChat.Service\\IObjectService.cs",
-              "ToolTip": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\BlazorChat.Service\\IObjectService.cs",
-              "RelativeToolTip": "BlazorChat.Service\\IObjectService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T19:03:48.174Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
->>>>>>> parent of b70b8d5 (working with views)
+              "DocumentIndex": 31,
               "Title": "ChatRoomModel.cs",
               "DocumentMoniker": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\Server.Infrastructure\\ChatRoomModel.cs",
               "RelativeDocumentMoniker": "Server.Infrastructure\\ChatRoomModel.cs",
@@ -939,95 +585,7 @@
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 33,
-=======
-              "DocumentIndex": 29,
-              "Title": "MappingProfiles.cs",
-              "DocumentMoniker": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\Server.Infrastructure\\Helper\\MappingProfiles.cs",
-              "RelativeDocumentMoniker": "Server.Infrastructure\\Helper\\MappingProfiles.cs",
-              "ToolTip": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\Server.Infrastructure\\Helper\\MappingProfiles.cs",
-              "RelativeToolTip": "Server.Infrastructure\\Helper\\MappingProfiles.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAABIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T16:09:31.238Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "MessegeUsersModel.cs",
-              "DocumentMoniker": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\Server.Infrastructure\\MessegeUsersModel.cs",
-              "RelativeDocumentMoniker": "Server.Infrastructure\\MessegeUsersModel.cs",
-              "ToolTip": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\Server.Infrastructure\\MessegeUsersModel.cs",
-              "RelativeToolTip": "Server.Infrastructure\\MessegeUsersModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T16:22:41.468Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "MessageModel.cs",
-              "DocumentMoniker": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\Server.Infrastructure\\MessageModel.cs",
-              "RelativeDocumentMoniker": "Server.Infrastructure\\MessageModel.cs",
-              "ToolTip": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\Server.Infrastructure\\MessageModel.cs",
-              "RelativeToolTip": "Server.Infrastructure\\MessageModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T16:20:33.069Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 32,
-              "Title": "UserModel.cs",
-              "DocumentMoniker": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\Server.Infrastructure\\UserModel.cs",
-              "RelativeDocumentMoniker": "Server.Infrastructure\\UserModel.cs",
-              "ToolTip": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\Server.Infrastructure\\UserModel.cs",
-              "RelativeToolTip": "Server.Infrastructure\\UserModel.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T16:24:42.588Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Core\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "LocalChat.Core\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Core\\Entities\\User.cs",
-              "RelativeToolTip": "LocalChat.Core\\Entities\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T23:54:26.251Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "MessegeUsers.cs",
-              "DocumentMoniker": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Core\\Entities\\MessegeUsers.cs",
-              "RelativeDocumentMoniker": "LocalChat.Core\\Entities\\MessegeUsers.cs",
-              "ToolTip": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Core\\Entities\\MessegeUsers.cs",
-              "RelativeToolTip": "LocalChat.Core\\Entities\\MessegeUsers.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T23:53:56.485Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "Message.cs",
-              "DocumentMoniker": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Core\\Entities\\Message.cs",
-              "RelativeDocumentMoniker": "LocalChat.Core\\Entities\\Message.cs",
-              "ToolTip": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Core\\Entities\\Message.cs",
-              "RelativeToolTip": "LocalChat.Core\\Entities\\Message.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T23:53:34.034Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
->>>>>>> parent of b70b8d5 (working with views)
               "Title": "LocalChat.Server.csproj",
               "DocumentMoniker": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Server\\LocalChat.Server.csproj",
               "RelativeDocumentMoniker": "LocalChat.Server\\LocalChat.Server.csproj",
@@ -1039,11 +597,7 @@
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 34,
-=======
-              "DocumentIndex": 37,
->>>>>>> parent of b70b8d5 (working with views)
+              "DocumentIndex": 33,
               "Title": "LocalChat.csproj",
               "DocumentMoniker": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat\\LocalChat.csproj",
               "RelativeDocumentMoniker": "LocalChat\\LocalChat.csproj",
@@ -1055,11 +609,7 @@
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 35,
-=======
-              "DocumentIndex": 38,
->>>>>>> parent of b70b8d5 (working with views)
+              "DocumentIndex": 34,
               "Title": "LocalChat.Server.http",
               "DocumentMoniker": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Server\\LocalChat.Server.http",
               "RelativeDocumentMoniker": "LocalChat.Server\\LocalChat.Server.http",
@@ -1071,11 +621,7 @@
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 37,
-=======
-              "DocumentIndex": 40,
->>>>>>> parent of b70b8d5 (working with views)
+              "DocumentIndex": 36,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Server\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "LocalChat.Server\\Properties\\launchSettings.json",
@@ -1087,11 +633,7 @@
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 38,
-=======
-              "DocumentIndex": 41,
->>>>>>> parent of b70b8d5 (working with views)
+              "DocumentIndex": 37,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "LocalChat\\Properties\\launchSettings.json",
@@ -1103,23 +645,7 @@
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 36,
-=======
-              "DocumentIndex": 43,
-              "Title": "IEntity.cs",
-              "DocumentMoniker": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Core\\Entities\\IEntity.cs",
-              "RelativeDocumentMoniker": "LocalChat.Core\\Entities\\IEntity.cs",
-              "ToolTip": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Core\\Entities\\IEntity.cs",
-              "RelativeToolTip": "LocalChat.Core\\Entities\\IEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T23:53:12.162Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
->>>>>>> parent of b70b8d5 (working with views)
+              "DocumentIndex": 35,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Server\\appsettings.json",
               "RelativeDocumentMoniker": "LocalChat.Server\\appsettings.json",
@@ -1131,11 +657,7 @@
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 39,
-=======
-              "DocumentIndex": 42,
->>>>>>> parent of b70b8d5 (working with views)
+              "DocumentIndex": 38,
               "Title": "ChatContext.cs",
               "DocumentMoniker": "C:\\Users\\Kripa\\Documents\\GitHub\\BlazorLocalChat\\Chat\\LocalChat.Core\\Context\\ChatContext.cs",
               "RelativeDocumentMoniker": "LocalChat.Core\\Context\\ChatContext.cs",

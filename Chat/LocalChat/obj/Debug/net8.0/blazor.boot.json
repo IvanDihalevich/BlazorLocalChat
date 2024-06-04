@@ -1,11 +1,7 @@
 {
   "mainAssemblyName": "LocalChat",
   "resources": {
-<<<<<<< HEAD
-    "hash": "sha256-dvBqv8aEStYOW4yVOi2ZNgu1YErR1NkbvIi/17YsC7Y=",
-=======
-    "hash": "sha256-xeiKlEFKcw+Q00llIRJ4iZvoZg2PPoE07WTxsaluBtk=",
->>>>>>> parent of b70b8d5 (working with views)
+    "hash": "sha256-Kani7lCERmxr9hRI9TI0bYFKgSJv2FokN71pGR2vI5g=",
     "jsModuleNative": {
       "dotnet.native.8.0.5.ew1vqrwwsw.js": "sha256-boyHe+0RMZDkzBKGhsrnXPhPg3oZ6UqJnTUzngJPjNY="
     },
@@ -255,25 +251,10 @@
       "mscorlib.wasm": "sha256-XvLAB5IyfVSmj5aaGnPwgVFaaZz8jXmbN8WmeopiPBM=",
       "netstandard.wasm": "sha256-TbMssdnuTiKq1gjTPkpgROAuWN0uhvPnagvWR+wAgNs=",
       "System.Private.CoreLib.wasm": "sha256-sscg+Efk8ROPq+q4IVmhShzITuoOYvB8Bsc+Mp9vcSM=",
-<<<<<<< HEAD
-      "BlazorChat.Service.wasm": "sha256-WkG0lXBe6v3yBGl/MD8uA6bwYlWLpxQsLd3WtSRXmoE=",
-      "LocalChat.Core.wasm": "sha256-0BUZ9xCyun5zub3MSIq3l+JTkkHtaOba/NxM/zc2g14=",
-      "LocalChat.Repository.wasm": "sha256-SmFXZzLifZ0w9O4Erb5++HIUlYtvzEScPNrfL5Kb4a8=",
-      "Server.Infrastructure.wasm": "sha256-gOILa7cqtKqAZIS4xgq5kdtcMGOy34WC4unaMh1wOnc=",
-      "LocalChat.wasm": "sha256-A08J0XrmTtOZW8rozVt8Nv30fMrHckw3g9KJ+75Gws4="
+      "LocalChat.wasm": "sha256-Gtbs9TGuWSPUgVLwZnR54oqmJk2Lnwq9KtGZfcnW7vE="
     },
     "pdb": {
-      "BlazorChat.Service.pdb": "sha256-7J9Gsg1bxFMGCr46H/5VMFHk8iEhfc1QdpFUc1TGrpk=",
-      "LocalChat.Core.pdb": "sha256-pPWsJyMfPeXhJUREbnGvtfxOW2OqOM8Ll57MsFawdvs=",
-      "LocalChat.Repository.pdb": "sha256-WNNxuIF8P6cM6ps3ExLpFYkCIBnnvWLchyRm3HSE2zg=",
-      "Server.Infrastructure.pdb": "sha256-2YwUDL3neMdv13OwJnANTVNjJFBl00AGJpR2f/xk3g4=",
-      "LocalChat.pdb": "sha256-SaANk/CJd2W+/yYH1Pjvc9skbujp34TsOpPMCvrPX34="
-=======
-      "LocalChat.wasm": "sha256-ylXhiEMkIldyMwDiY3T0L4ZvRVjfLPiANqZ9V2zMnic="
-    },
-    "pdb": {
-      "LocalChat.pdb": "sha256-UcLJ8YlUlmfd8u4eoBJp0FpKRNwQYf3UvyzEzDnKCtg="
->>>>>>> parent of b70b8d5 (working with views)
+      "LocalChat.pdb": "sha256-NKLiRIUrpOOi7XzqhjvCy+C1Tbvy9GFuCm5p44HqRoU="
     },
     "satelliteResources": {
       "cs": {
